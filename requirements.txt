@@ -1,0 +1,29 @@
+# Core numerical & data handling
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistics & modeling
+statsmodels
+scikit-learn
+
+# Notebooks
+jupyter
+jupyterlab
+ipykernel
+
+# File formats
+openpyxl
+xlrd
+pyarrow
+
+# Environment variables
+python-dotenv
+
+# Utilities
+tqdm
