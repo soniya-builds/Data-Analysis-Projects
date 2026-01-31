@@ -31,12 +31,12 @@ The goal of this project is to understand:
 ---
 
 ## Project Structure
+
+```text
 Google-Search-Trends-Analysis/
-│
 ├── notebook/
 │   └── google_trends_analysis.ipynb
-│
 ├── requirements.txt
-├── README.md
+└── README.md
 
 
