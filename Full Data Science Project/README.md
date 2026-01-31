@@ -30,6 +30,7 @@ The goal of this project is to understand:
 
 ---
 
+## Project Structure
 Google-Search-Trends-Analysis/
 │
 ├── notebook/
@@ -37,4 +38,5 @@ Google-Search-Trends-Analysis/
 │
 ├── requirements.txt
 ├── README.md
+
 
