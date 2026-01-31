@@ -1,6 +1,6 @@
 # 📊 Google Search Trends Analysis using PyTrends
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes **global Google search trends** using the unofficial Google Trends API, **PyTrends**.  
 Instead of relying on a static dataset, the project dynamically fetches **real-time and historical search interest data** directly from Google Trends and performs exploratory data analysis (EDA) and visualization.
 
@@ -12,7 +12,7 @@ The goal of this project is to understand:
 
 ---
 
-## 🧠 Key Concepts Used
+##  Key Concepts Used
 - API-based data extraction (PyTrends)
 - Time-series analysis
 - Geographical data analysis
@@ -21,7 +21,7 @@ The goal of this project is to understand:
 
 ---
 
-## 🛠️ Technologies & Libraries
+##  Technologies & Libraries
 - **Python**
 - **PyTrends** (Google Trends API)
 - **Pandas & NumPy** – data handling
@@ -30,12 +30,11 @@ The goal of this project is to understand:
 
 ---
 
-## 🔍 Project Workflow
+Google-Search-Trends-Analysis/
+│
+├── notebook/
+│   └── google_trends_analysis.ipynb
+│
+├── requirements.txt
+├── README.md
 
-### 1️⃣ Data Collection (Live API)
-Data is fetched directly from Google Trends using PyTrends.  
-No CSV or static dataset is required.
-
-```python
-from pytrends.request import TrendReq
-pytrends = TrendReq(hl='en-US', tz=360)
