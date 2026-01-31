@@ -12,6 +12,13 @@ plotly
 statsmodels
 scikit-learn
 
+# Google Trends API (unofficial)
+pytrends
+requests
+
+# Geospatial (for world map)
+geopandas
+
 # Notebooks
 jupyter
 jupyterlab
