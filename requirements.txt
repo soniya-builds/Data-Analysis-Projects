@@ -1,4 +1,4 @@
-# Core numerical & data handling
+# Core
 numpy
 pandas
 scipy
@@ -7,33 +7,41 @@ scipy
 matplotlib
 seaborn
 plotly
+kaleido
 
-# Statistics & modeling
+# Modeling
 statsmodels
 scikit-learn
 
-# Google Trends API (unofficial)
+# APIs
 pytrends
 requests
 
-# Geospatial (for world map)
+# Geospatial
 geopandas
+shapely
+fiona
+pyproj
+rtree
 
-# Notebooks
+# Notebook
 jupyter
 jupyterlab
 ipykernel
+ipywidgets
 
 # File formats
 openpyxl
 xlrd
 pyarrow
+fastparquet
 
-# Environment variables
+# Environment
 python-dotenv
 
 # Utilities
 tqdm
+numba
 
 # Pytrends is an unofficial Python library that provides a simple interface for automating 
 # the extraction of search trend data from Google Trends. It is a powerful tool for marketers, 
