@@ -9,9 +9,11 @@ seaborn
 plotly
 kaleido
 
-# Modeling
-statsmodels
+# Modeling & ML
 scikit-learn
+statsmodels
+joblib
+threadpoolctl
 
 # APIs
 pytrends
@@ -24,24 +26,25 @@ fiona
 pyproj
 rtree
 
-# Notebook
+# Notebook Environment
 jupyter
 jupyterlab
 ipykernel
 ipywidgets
 
-# File formats
+# File Formats
 openpyxl
 xlrd
 pyarrow
 fastparquet
 
-# Environment
+# Environment Variables
 python-dotenv
 
 # Utilities
 tqdm
 numba
+psutil
 
 # Pytrends is an unofficial Python library that provides a simple interface for automating 
 # the extraction of search trend data from Google Trends. It is a powerful tool for marketers, 
