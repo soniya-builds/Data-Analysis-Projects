@@ -45,8 +45,3 @@ python-dotenv
 tqdm
 numba
 psutil
-
-# Pytrends is an unofficial Python library that provides a simple interface for automating 
-# the extraction of search trend data from Google Trends. It is a powerful tool for marketers, 
-# data scientists, and analysts to programmatically access and analyze what the world is searching for. 
-#everything is in the requirements.txt file, which lists all the dependencies needed for the project.
